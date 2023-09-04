@@ -1,4 +1,4 @@
-# DigitalWatch
+# DigitalWatch  https://tejaskarde21.github.io/DigitalWatch/DigiClock/index.htm
 
 it is an a Digital Watch .
 Functinality use in this :-
